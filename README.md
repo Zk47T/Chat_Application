@@ -28,7 +28,7 @@ terminate <connection id.>
 send <connection id.> <message>
 exit
 ```
-##You can check IP by type comman 'myip'
+## You can check IP by type comman 'myip'
 ```
 My IP: 192.168.1.100
 ```
