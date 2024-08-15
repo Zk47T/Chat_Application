@@ -1,3 +1,3 @@
 all:
-	gcc -g -o main main.c -lpthread
+	gcc -g -o chat chat.c -lpthread
 
